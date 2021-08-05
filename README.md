@@ -1,3 +1,4 @@
+[Selenium IDE.pptx](https://github.com/Kaandonmez/integer-root-emu8086/files/6941028/Selenium.IDE.pptx)
 # integer-root-emu8086
 
 -Finding integer root with assembly-
